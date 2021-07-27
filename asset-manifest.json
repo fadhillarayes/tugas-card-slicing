@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tugas-card-slicing/static/css/main.61547549.chunk.css",
+    "main.js": "/tugas-card-slicing/static/js/main.08084b8d.chunk.js",
+    "main.js.map": "/tugas-card-slicing/static/js/main.08084b8d.chunk.js.map",
+    "runtime-main.js": "/tugas-card-slicing/static/js/runtime-main.044a364d.js",
+    "runtime-main.js.map": "/tugas-card-slicing/static/js/runtime-main.044a364d.js.map",
+    "static/js/2.db743602.chunk.js": "/tugas-card-slicing/static/js/2.db743602.chunk.js",
+    "static/js/2.db743602.chunk.js.map": "/tugas-card-slicing/static/js/2.db743602.chunk.js.map",
+    "static/js/3.d340d4a7.chunk.js": "/tugas-card-slicing/static/js/3.d340d4a7.chunk.js",
+    "static/js/3.d340d4a7.chunk.js.map": "/tugas-card-slicing/static/js/3.d340d4a7.chunk.js.map",
+    "index.html": "/tugas-card-slicing/index.html",
+    "static/css/main.61547549.chunk.css.map": "/tugas-card-slicing/static/css/main.61547549.chunk.css.map",
+    "static/js/2.db743602.chunk.js.LICENSE.txt": "/tugas-card-slicing/static/js/2.db743602.chunk.js.LICENSE.txt",
+    "static/media/card-simple.a38994cb.png": "/tugas-card-slicing/static/media/card-simple.a38994cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.044a364d.js",
+    "static/js/2.db743602.chunk.js",
+    "static/css/main.61547549.chunk.css",
+    "static/js/main.08084b8d.chunk.js"
+  ]
+}
